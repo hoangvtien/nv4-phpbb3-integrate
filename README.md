@@ -32,14 +32,21 @@ Truy cập vào:
 
 Tài khoản => Cấu hình Module.
 
+Điền vào "Thư mục chứa diễn đàn". Ví dụ: phpbb.
+
+Nhấn lưu lại.
+
 
 Đánh dấu vào mục: Sử dụng tài khoản của Diễn đàn.
 
 
-Điền vào "Thư mục chứa diễn đàn". Ví dụ: phpbb.
-
-
 Nhấn lưu lại.
+
+
++ Lưu ý: Nếu không chọn `Sử dụng tài khoản của Diễn đàn` thì Diễn đàn và NukeViet sẽ sử dụng hệ thống tài khoản riêng biệt.
+
+
+Khi đó có thể bỏ qua bước 8 bên dưới để giữ lại hoàn toàn các thành viên đang có của NukeViet.
 
 
 5) Download các file sau:
@@ -89,4 +96,4 @@ Nếu thành công bạn sẽ được thông báo tài khoản quản trị nuk
 
 Chú ý:
 
-+++ Các thành viên khác muốn thêm vào ban quản trị site của nukviet cần đăng nhập 1 lần trên portal của nukeviet.
++++ Các thành viên khác muốn thêm vào ban quản trị site của nukviet cần đăng nhập 1 lần trên portal của Nukeviet.
